@@ -30,5 +30,5 @@ My research interests include Speech recognition, spoken language understanding,
 
 ---
 
-[📄 Download my CV](assets/cv.pdf)
+[Download my CV](assets/cv.pdf)
 
