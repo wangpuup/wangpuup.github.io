@@ -23,7 +23,7 @@ My research interests include speech recognition, spoken language understanding,
 
 # Experience
 
-- *2015.01 - now*, Visiting Scholar, WAVLab, Carnegie Mellon University, Pittsburgh, PA, US.
+- *2025.01 - now*, Visiting Scholar, WAVLab, Carnegie Mellon University, Pittsburgh, PA, US.
 - *2023.09 - now*, Research Associate, PSI, KU Leuven, Belgium.
 
 # Education
