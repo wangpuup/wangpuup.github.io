@@ -21,7 +21,7 @@ Hi 👋, I am a Ph.D student at Processing Speech and Image (PSI), KU Leuven, Be
 
 My research interests include Speech recognition, spoken language understanding, dysarthric speech processing, parameter-efficient optimizations, and explainable AI.
 
-##
+*Section Break*
 
 - *2015.01 - 2025.04*, visiting scholar, WAVLab, Carnegie Mellon University, Pittsburgh, PA, US.
 - *2019.09 - now*, PhD and scientific researcher, PSI, KU Leuven, Belgium. 
