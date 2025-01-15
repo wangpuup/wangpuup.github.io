@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi 👋, I am a Ph.D student at Processing Speech and Image (PSI), KU Leuven, Belgium, supervised by Prof. Dr. Hugo Van hamme. I received my MS (2019) and BS (2016) in Electronic Engineering at Southeast University, China.
+Hi 👋, I am a Ph.D student at Processing Speech and Image (PSI), KU Leuven, Belgium, supervised by Prof. Dr. Hugo Van hamme. I received my MS (2019) and BS (2016) in Electronic Engineering at Southeast University, China, supervised by Prof. Dr. Ruqiang Yan.
 
 My research interests include Speech recognition, spoken language understanding, dysarthric speech processing, parameter-efficient optimizations, and explainable AI.
 
@@ -25,7 +25,11 @@ My research interests include Speech recognition, spoken language understanding,
 ---
 
 - *2015.01 - now*, Visiting Scholar, WAVLab, Carnegie Mellon University, Pittsburgh, PA, US.
-- *2019.09 - now*, PhD Candidate & Scientific Researcher, PSI, KU Leuven, Belgium. 
+- *2023.09 - now*, Research Associate, PSI, KU Leuven, Belgium.
+
+# Education
+---
+- *2019.09 - now*, PhD, Engineering Science, KU Leuven, Belgium.
 - *2016.09 - 2019.06*, MS, Engineering, Southeast University, China.
 - *2012.06 - 2016.06*, BS, Engineering, Southeast University, China.
 
