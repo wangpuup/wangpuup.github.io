@@ -87,7 +87,6 @@ exclude:
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
-  - assets/CV_Pu.pdf
   - config
   - gulpfile.js
   - log
