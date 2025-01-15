@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pu Wang"
-description              : "PhD student @ ESAT-PSI, KU Leuven, Belgium. Visitor @ WAVLab, CMU, US."
+description              : "pu.wang@esat.kuleuven.be"
 repository               : "wangpuup/wangpuup.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pu Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD student @ ESAT-PSI, KU Leuven, Belgium. Visitor @ WAVLab, CMU, US."
+  bio              : "I am a PhD student at ESAT-PSI, KU Leuven, Belgium. I am currently a visiting student at WAVLab, CMU, US."
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
