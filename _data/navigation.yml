@@ -4,6 +4,6 @@ main:
     url: "/#about-me"
     
   - title: "CV"
-  url: "assets/cv.pdf"
+    url: "assets/cv.pdf"
 
 
