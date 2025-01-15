@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Pu Wang"
-description              : "       "
+- 
+description              : "     "
+- 
 repository               : "wangpuup/wangpuup.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,6 +26,7 @@ author:
   name             : "Pu Wang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "       "
+  -
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
